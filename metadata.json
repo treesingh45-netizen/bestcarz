@@ -1,0 +1,6 @@
+{
+  "name": "BEST CARz - Premium Dealership Lahore",
+  "description": "Premium automotive dealership in DHA Lahore, Pakistan. Buy, sell, and exchange quality cars with transparent pricing, verified specifications, and direct WhatsApp inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
